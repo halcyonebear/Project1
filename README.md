@@ -1,4 +1,5 @@
 # Project1
 Just the first project
 
-ssss
+#include <stdio.h>
+#include <math.h>
